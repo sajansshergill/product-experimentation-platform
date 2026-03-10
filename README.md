@@ -1,2 +1,1 @@
-# product-experimentation-platform
-Telecom Product Analytics &amp; Experimentation Platform 
+# Telecom Product Analytics &amp; Experimentation Platform 
